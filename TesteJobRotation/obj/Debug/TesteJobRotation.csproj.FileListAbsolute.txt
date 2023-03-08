@@ -1,0 +1,8 @@
+C:\Users\otavi\source\repos\TesteJobRotation\bin\Debug\TesteJobRotation.exe.config
+C:\Users\otavi\source\repos\TesteJobRotation\bin\Debug\TesteJobRotation.exe
+C:\Users\otavi\source\repos\TesteJobRotation\bin\Debug\TesteJobRotation.pdb
+C:\Users\otavi\source\repos\TesteJobRotation\obj\Debug\TesteJobRotation.csproj.AssemblyReference.cache
+C:\Users\otavi\source\repos\TesteJobRotation\obj\Debug\TesteJobRotation.csproj.SuggestedBindingRedirects.cache
+C:\Users\otavi\source\repos\TesteJobRotation\obj\Debug\TesteJobRotation.csproj.CoreCompileInputs.cache
+C:\Users\otavi\source\repos\TesteJobRotation\obj\Debug\TesteJobRotation.exe
+C:\Users\otavi\source\repos\TesteJobRotation\obj\Debug\TesteJobRotation.pdb
